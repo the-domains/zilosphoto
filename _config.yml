@@ -1,7 +1,7 @@
 name: Zilosphoto
 favicon: null
-layout_spectrum: 0.8926233022939414
-typography_spectrum: 0.8236556965857744
+layout_spectrum: 0.76078
+typography_spectrum: 1
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#17BEBB'
-    - '#2E282A'
-    - '#CD5334'
-    - '#EDB88B'
-    - '#FAD8D6'
-  brandStrength: 0.8816148950718343
-  lightness: 0.8353786685038358
-  saturation: 0.015260716434568167
+    - '#000000'
+    - '#ffffff'
+    - '#777f94'
+    - '#263646'
+    - '#abb2bc'
+  brandStrength: 0.5
+  lightness: 0.875
+  saturation: 0.5
   rhythmicContrast: 0.05679092602804303
 purpose: []
